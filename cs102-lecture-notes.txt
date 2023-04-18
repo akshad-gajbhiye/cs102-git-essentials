@@ -1,0 +1,5 @@
+git clone : We can clone a public repository to our local machine
+git status : We can see if we have made any file changes in our local repository.
+git add : We can add files which we want to commit.
+git commit -m "Any message" : You can commit the changes and add a phrase to tell others what you changed
+git push -u origin main : We can push the commit to main branch with this.
