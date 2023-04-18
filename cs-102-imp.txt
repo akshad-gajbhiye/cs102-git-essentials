@@ -1,0 +1,1 @@
+git diff --staged : This command is used to compare the old and new version of the file.

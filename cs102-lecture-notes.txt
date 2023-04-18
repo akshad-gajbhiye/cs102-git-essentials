@@ -1,0 +1,11 @@
+git clone : We can clone a public repository to our local machine
+git status : We can see if we have made any file changes in our local repository.
+git add : We can add files which we want to commit.
+git commit -m "Any message" : You can commit the changes and add a phrase to tell others what you changed
+git push -u origin main : We can push the commit to main branch with this.
+
+Summary of Todays Class:
+Today we first learnt about github desktop. It is a very convenient way with better gui for the user. After that we learnt about markdown and Html.
+We also got to know that wikipedia is made in markdown language. Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+We also got to knew about how we switched from markdown to html.
